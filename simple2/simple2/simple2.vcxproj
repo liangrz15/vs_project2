@@ -78,6 +78,7 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="multiply.cpp" />
+    <ClCompile Include="sum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
